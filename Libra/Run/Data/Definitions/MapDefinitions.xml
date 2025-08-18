@@ -1,0 +1,107 @@
+<MapDefinitions>
+
+	<MapDefinition
+		name="Approach"
+		dimensions="48,24"
+		fillTileType="LongGrass"
+		edgeTileType="RockWall"
+		worm1TileType="DarkGrass"	worm1Count="15"	worm1MaxLength="12"
+		worm2TileType="RockWall"	worm2Count="60"	worm2MaxLength="8"
+		startFloorTileType="Concrete"
+		startBunkerTileType="RockWall"
+		endFloorTileType="Concrete"
+		endBunkerTileType="StoneWall"
+		leoCount="1"
+		ariesCount="1"
+		scorpioCount="5"
+		taurusCount="0"
+		capricornCount="0"
+		sagittariusCount="0"
+   />
+
+	<MapDefinition
+		name="Courtyard"
+		dimensions="24,24"
+		fillTileType="Grass"
+		edgeTileType="StoneWall"
+		worm1TileType="LongGrass"	worm1Count="30"	worm1MaxLength="6"
+		worm2TileType="StoneWall"	worm2Count="30"	worm2MaxLength="4"
+		startFloorTileType="Concrete"
+		startBunkerTileType="RockWall"
+		endFloorTileType="StonePavers"
+		endBunkerTileType="StoneWall"
+		leoCount="20"
+		ariesCount="0"
+		scorpioCount="20"
+   />
+
+	<MapDefinition
+		name="Tunnel"
+		dimensions="50,8"
+		fillTileType="StonePavers"
+		edgeTileType="StoneWall"
+		worm1TileType="Grass"		worm1Count="12"	worm1MaxLength="5"
+		worm2TileType="BrickWall"	worm2Count="30"	worm2MaxLength="4"
+		startFloorTileType="Grass"
+		startBunkerTileType="StoneWall"
+		endFloorTileType="StonePavers"
+		endBunkerTileType="BrickWall"
+		leoCount="10"
+		scorpioCount="8"
+   />
+
+	<MapDefinition
+		name="Fortress"
+		dimensions="32,16"
+		fillTileType="StonePavers"
+		edgeTileType="BrickWall"
+		worm1TileType="CrackPavers"	worm1Count="8"	worm1MaxLength="20"
+		worm2TileType="MossyPavers"	worm2Count="20"	worm2MaxLength="5"
+		worm3TileType="BrickWall"	worm3Count="12"	worm3MaxLength="6"
+		startFloorTileType="StonePavers"
+		startBunkerTileType="StoneWall"
+		endFloorTileType="Marble"
+		endBunkerTileType="Water"
+		leoCount="1"
+		ariesCount="0"
+		scorpioCount="0"
+		taurusCount="0"
+		capricornCount="0"
+		sagittariusCount="0"
+   />
+
+	<MapDefinition
+		name="Sanctum"
+		dimensions="16,16"
+		fillTileType="Marble"
+		edgeTileType="Water"
+		worm1TileType="Water"		worm1Count="5"	worm1MaxLength="8"
+		worm2TileType="MarbleWall"	worm2Count="8"	worm2MaxLength="4"
+		startFloorTileType="Marble"
+		startBunkerTileType="MarbleWall"
+		endFloorTileType="Marble"
+		endBunkerTileType="Water"
+		leoCount="0"
+		ariesCount="0"
+		scorpioCount="0"
+		taurusCount="0"
+		capricornCount="1"
+		sagittariusCount="0"
+   />
+
+	<MapDefinition
+		name="TestZoo1"
+		dimensions="50,50"
+		fillTileType="Marble"
+		edgeTileType="Water"
+		worm1TileType="Water"		worm1Count="5"	worm1MaxLength="8"
+		worm2TileType="MarbleWall"	worm2Count="8"	worm2MaxLength="4"
+		startFloorTileType="Marble"
+		startBunkerTileType="MarbleWall"
+		endFloorTileType="Marble"
+		endBunkerTileType="Water"
+   />
+
+</MapDefinitions>
+
+

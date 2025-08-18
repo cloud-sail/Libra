@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Framework">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Entities">
+      <UniqueIdentifier>{c23c3d9d-7e39-4001-b60b-cb734a092daa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Configs">
+      <UniqueIdentifier>{6a34afc2-69af-4f31-9ddd-a9bb843a7d40}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main_Windows.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="App.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="GameCommon.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerTank.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="TileDefinition.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="MapDefinition.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Aries.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Leo.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Scorpio.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Explosion.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Flame.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Capricorn.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineBuildPreferences.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="GameCommon.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.hpp">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.hpp">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerTank.hpp">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="TileDefinition.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Scorpio.hpp">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Aries.hpp">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Leo.hpp">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="MapDefinition.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.hpp">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Explosion.hpp">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Flame.hpp">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Capricorn.hpp">
+      <Filter>Entities</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\..\Run\Data\GameConfig.xml">
+      <Filter>Configs</Filter>
+    </Xml>
+    <Xml Include="..\..\Run\Data\Definitions\MapDefinitions.xml">
+      <Filter>Configs</Filter>
+    </Xml>
+    <Xml Include="..\..\Run\Data\Definitions\TileDefinitions.xml">
+      <Filter>Configs</Filter>
+    </Xml>
+  </ItemGroup>
+</Project>

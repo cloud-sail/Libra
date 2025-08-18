@@ -1,0 +1,28 @@
+<TileDefinitions>
+
+	<TileDefinition	name="Grass"		isSolid="false"	spriteCoords="0,0"	mapColor="0,200,0" tint="180,180,180"/>
+	<TileDefinition	name="LongGrass"	isSolid="false"	spriteCoords="2,0"	mapColor="0,150,50" tint="180,180,180"/>
+	<TileDefinition	name="DarkGrass"	isSolid="false"	spriteCoords="3,0"	mapColor="0,100,0" tint="180,180,180"/>
+	<TileDefinition	name="Dirt"			isSolid="false"	spriteCoords="4,2"	mapColor="141,105,81" tint="150,140,130"/>
+	<TileDefinition name="Sand"			isSolid="false"	spriteCoords="7,1"	mapColor="237,221,150" tint="100,100,100"/>
+	<TileDefinition name="Concrete"		isSolid="false"	spriteCoords="3,6"	mapColor="150,150,150" tint="100,100,100"/>
+	<TileDefinition name="StonePavers"	isSolid="false"	spriteCoords="5,4"	mapColor="88,88,88" tint="200,200,200"/>
+	<TileDefinition name="MossyPavers"	isSolid="false"	spriteCoords="5,5"	mapColor="49,60,29" tint="200,200,200"/>
+	<TileDefinition name="CrackPavers"	isSolid="false"	spriteCoords="6,4"	mapColor="66,66,66" tint="200,200,200"/>
+	<TileDefinition name="RedFloor"		isSolid="false"	spriteCoords="3,5"	mapColor="177,78,69" tint="100,255,255"/>
+	<TileDefinition name="BlueFloor"	isSolid="false"	spriteCoords="2,5"	mapColor="69,53,198" tint="150,150,150"/>
+	<TileDefinition name="GoldFloor"	isSolid="false"	spriteCoords="2,7"	mapColor="227,172,56" tint="150,150,150"/>
+	<TileDefinition name="Marble"		isSolid="false"	spriteCoords="4,6"	mapColor="96,128,128" tint="150,150,150"/>
+	<TileDefinition name="MarbleWall"	isSolid="true"	spriteCoords="6,6"	mapColor="0,160,160" tint="255,255,255"/>
+	<TileDefinition name="BrickWall"	isSolid="true"	spriteCoords="2,4"  mapColor="112,112,112"/>
+	<TileDefinition name="StoneWall"	isSolid="true"	spriteCoords="1,2"	mapColor="200,200,200"/>
+	<TileDefinition name="RockWall"		isSolid="true"	spriteCoords="5,3"	mapColor="180,180,180"/>
+	<TileDefinition name="IronWall"		isSolid="true"	spriteCoords="5,6"  mapColor="128,128,128"/>
+	<TileDefinition name="RedWall"		isSolid="true"	spriteCoords="4,5"  mapColor="255,0,0"/>
+	<TileDefinition name="Water"		isSolid="false"	spriteCoords="5,7"	isWater="true"/>
+	<TileDefinition name="MapEntry"		isSolid="false"	spriteCoords="0,7"	tint="200,200,200"/>
+	<TileDefinition name="MapExit"		isSolid="false"	spriteCoords="1,7"	tint="255,255,255"/>
+
+</TileDefinitions>
+
+

@@ -38,7 +38,7 @@ Go to `PROJECT_NAME/Run/` and Run `PROJECT_NAME_Release_x64.exe`
 ## How to build
 1. Clone Project
 ```bash
-git clone --recurse-submodules https://github.com/cloud-sail/ChessDX.git
+git clone --recurse-submodules https://github.com/cloud-sail/Libra.git
 ```
 2. Open Solution `PROJECT_NAME.sln` file
 - In Project Property Pages
